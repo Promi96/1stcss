@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    text-align: center;
+    color: #5acab6;
+}
+
+.top-container{
+    background-color: #bbf0ff;
+    position: relative;
+    padding-top:  100px;
+}
+.top-cloud{
+    position:absolute;
+    right: 200px;
+    top: 20px;
+    width: 10%;
+    height: 10%;
+}
+h1 {
+    margin: 50px auto 2.5rem auto;
+    font-size: 60px;
+    color: #2c786c;
+    text-align: center;
+    font-family: 'Ephesis', cursive;
+}
+h2 {
+    font-size: 40px;
+    color: #2c786c;
+    font-weight: normal;
+    padding-bottom: 10px;
+    font-family: 'Italianno', cursive;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    top:350px;
+    width: 10%;
+    height: 10%;
+
+}
+.mountain{
+    width: 30%;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.profile-img{
+    border-radius: 70%;
+}
+.hello{
+    color:black;
+    font-size: 60px;
+}
+.Intro{
+    color:#2c786c;
+}
+.ski{
+    color:black;
+    font-size: 60px;
+}
+hr{
+    border-style: none;
+    border-top-style:  dotted;
+    border-color: #bfebbc;
+    border-width: 5px;
+    width: 5%;
+    margin: 50px auto;
+}
+.row{
+    width: 40%;
+    margin: 45px auto 100px auto;
+    text-align: left;
+
+}
+p{
+    font-size: 17px;
+    color: #2c786c;
+    line-height: 150%;
+    
+    
+}
+.skills{
+    text-align: center;
+}
+.skill-row{
+    width: 40%;
+    margin: 45px auto 100px auto;
+    text-align: left;
+}
+.skill1-img{
+    width:100px;
+    height: 100px;
+    float:left;
+    margin-right: 50px;
+}
+.skill2-img{
+    width: 100px;
+    height: 100px;
+    float:right;
+    margin-left: 50px;
+}
+.skill3-img{
+    width: 100px;
+    height: 100px;
+    float:left;
+    margin-right: 50px;
+}
+h3{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #9cc6ed;
+	background:linear-gradient(to bottom, #c4ddf5 5%, #509be6 100%);
+	background-color:#c4ddf5;
+	border-radius:6px;
+	border:1px solid #5391cf;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #5089c2;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #509be6 5%, #c4ddf5 100%);
+	background-color:#509be6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.touch{
+    color:black;
+    font-size: 60px;
+}
+.contact-message{
+    font-size:15px;
+    text-align: center;
+
+ 
+}
+.bottom-container{
+    text-align: center;
+    background-color: thistle;
+    margin: 0%;
+    padding: 30px 20px;
+    }
+    a:hover{
+        color:white;
+    }
+    a{
+        font-family: 'Ephesis', cursive;
+        color:teal;
+        margin: 10px 15px;
+        text-decoration: none;
+        font-size: 30px;
+    }
+   

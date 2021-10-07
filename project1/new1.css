@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    text-align: center;
+    color: #5acab6;
+}
+
+.top-container{
+    background-color: #bbf0ff;
+    position: relative;
+    padding-top:  100px;
+}
+.top-cloud{
+    position:absolute;
+    right: 200px;
+    top: 20px;
+    width: 10%;
+    height: 10%;
+}
+h1 {
+    margin: 50px auto 2.5rem auto;
+    font-size: 60px;
+    color: #2c786c;
+    text-align: center;
+    font-family: 'Ephesis', cursive;
+}
+h2 {
+    font-size: 40px;
+    color: #2c786c;
+    font-weight: normal;
+    padding-bottom: 10px;
+    font-family: 'Italianno', cursive;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    top:350px;
+    width: 10%;
+    height: 10%;
+
+}
+.mountain{
+    width: 30%;
+}
+.middle-container{
+    margin: 100px 0;
+}
